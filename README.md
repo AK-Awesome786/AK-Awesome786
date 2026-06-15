@@ -21,21 +21,21 @@
 
 ## 🎯 About Me
 
-aspiring_cyber_analyst:
-  focus: "SOC Analyst & Blue Team Operations"
-  currently_learning: 
+Aspiring_cyber_analyst:
+  Focus: "SOC Analyst & Red Team Operations/pentesting"
+  Currently_learning: 
     - "SIEM (Splunk, Wazuh)"
     - "Threat Detection & Incident Response"
     - "Network Security & Log Analysis"
-  home_lab: "Active Directory + SIEM on VirtualBox"
-  certifications_in_progress:
+  Home_lab: "Active Directory + SIEM on Kali Linux"
+  Certifications_in_progress:
     - "CompTIA Security+"
     - "Splunk Core Certified User"
-  interests:
+  Interests:
     - "Threat Hunting"
-    - "Digital Forensics"
+    - "Pen testing"
     - "Security Automation (Python/PowerShell)"
-  goal: "Landing a cybersecurity internship to grow into a SOC Analyst role"
+  goal: "Landing a cybersecurity entry level job like a SOC Analyst role"
 🛡️ What I Do
 Table
 Domain	Skills & Tools
@@ -58,12 +58,11 @@ Project	Description	Tech Stack
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </div>
-🏆 TryHackMe & CTF Progress
+🏆 CTF Progress
 <div align="center">
 https://img.shields.io/badge/TryHackMe-Profile-212C42?style=for-the-badge&logo=tryhackme
 https://img.shields.io/badge/CTFtime-Profile-212C42?style=for-the-badge&logo=ctf
 </div>
-🎯 TryHackMe Rank: [Add your rank here]
 🏅 Completed Rooms: Pre-Security, Complete Beginner, SOC Level 1
 🚩 CTF Competitions: PicoCTF, CyberDefenders challenges
 📜 Certifications
